@@ -14,7 +14,7 @@ The Dojo 2 widget system provides a functional API that strives to strictly enfo
 In this tutorial we will create a filterable data-driven list widget, demonstrating how Dojo 2 widgets should be decoupled from data providers.
 
 ## Prerequisites
-You can [download](../assets/006_data_driven_widgets-initial.zip) the demo project and run `npm install` to get started.
+You can [download](../assets/1060_data_driven_widgets-initial.zip) the demo project and run `npm install` to get started.
 
 The `@dojo/cli` command line tool should be installed globally. Refer to the [Dojo 2 local installation](../000_local_installation/) article for more information.
 
