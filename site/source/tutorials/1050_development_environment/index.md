@@ -13,7 +13,7 @@ overview: This tutorial shows how to set up and use a development environment to
 This tutorial explores setting up your tools and environment for the best possible Dojo 2 development experience. You may use demo code from any of the Dojo 2 tutorials, but this tutorial will reference finished code from the [Forms tutorial](../005_form_widgets/).
 
 ## Prerequisites
-You can [download](../assets/10xx_development_environment-initial.zip) a fresh install of the demo code to get started.
+You can [download](../assets/1050_development_environment-initial.zip) a fresh install of the demo code to get started.
 
 You should be familiar with the developer tools in your browser of choice. This tutorial will reference the Chrome developer tools, but the instructions should generally apply to any browser.
 
